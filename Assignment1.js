@@ -1,0 +1,1 @@
+console.log("This is a document for Assignment 1 of the Patika-BSC Chain Bootcamp. Document created by Abdulhakim Altunkaya on 8 May 2023");
